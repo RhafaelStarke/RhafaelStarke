@@ -2,7 +2,7 @@ Bem-vindo ao meu GitHub!
 Oi, eu sou o Rhafael Starke, estudante de Ciência da Computação e apaixonado por programação. Este é o meu perfil no GitHub, onde compartilho meus projetos e contribuições para a comunidade de desenvolvedores.
 
 Sobre mim
-🔭 Atualmente estou no 7º semestre de Ciência da Computação.
+🔭 Atualmente estou no 8º semestre de Ciência da Computação.
 💻 Tenho noções em desenvolvimento de bancos de dados com PostgreSQL.
 🚀 Também tenho noções em desenvolvimento web.
 👯 Estou interessado em colaborar em projetos de código aberto e aprender com outros desenvolvedores.
